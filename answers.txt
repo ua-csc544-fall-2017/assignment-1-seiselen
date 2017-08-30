@@ -1,0 +1,101 @@
+============================================================
+Steven Eiselen
+CSC 544 - Grad Viz
+Assignment 1 - Tell Me About You
+Final Version 8/30/17
+============================================================
+
+Why are you taking this course?
+
+> Two main reasons: Visualization is my thing; and I am accepting the 
+  invitation that you made to my CSC 444 class back in Fall 16 to 
+  continue and expand our studies in the grad version of the course.
+
+What do you think you’ll learn in this course?
+
+> Clearly a recap of what I learned in 444, with expansions to some
+  of the topics and introduction to the more 'cutting edge' stuff as
+  you hinted to in your introduction lecture a few classes ago.
+
+What programming languages are you comfortable with?
+
+> Java, JavaScript, C, C#, C++
+
+Which programming language are you most comfortable with?
+
+> Java, mainly due to Processing being the IDE I almost exclusively
+  used over the last year or so for all my research and experiments.
+
+Have you ever created a data visualization? What was it?
+
+> Yep. Outside of my coursework in your CSC 444, I've recently been
+  working more with vector flow fields, interactive visualizations,
+  an agent-driven simulation visualizations.
+
+During the course of your studies, what’s the largest dataset you’ve had to deal with? What tools did you use?
+
+> Probably 3D models involved in my 3D viz work, amounting to millions
+  of polygons in a scene. Unity3D for the majority of these, as well as
+  OpenGL for my Graphics course (and of course 3D modelling software).
+
+What’s the best visualization you’ve ever seen? Why do you like it?
+
+> I probably said this same thing for my 444 questionaire, but that's
+  like asking a parent who their favorite child is, lol. That said, I
+  need to give the same answer again and say 3D interactive data viz
+  interfaces as seen in Science Fiction (i.e. Star Trek's LCARS).
+
+  Example: https://www.youtube.com/watch?v=jlJgi3SxDaI
+
+What’s the worst visualization you’ve ever seen? Why do you not like it?
+
+> Console text output. (Probably the same answer I gave in 444)
+
+How would you assess your own programming skills, compared to what you would imagine the class composition to be? Please give an estimate in terms of percentiles.
+
+> This is Computer Science: so half the playground has Imposter Syndrome
+  and the other half is overconfident. That said, I do not presume to be
+  the best programmer in the class; but I have built some cool stuff and
+  have managed to be successful with my programming career so far. My
+  biggest challenge seems to be gaining better software engineering 
+  techniques, especially when builds get complex. So if we are able to
+  'orbit' around how to engineer complex builds with lots of moving
+  parts (ESPECIALLY with interactive viz), I'd be appreciative! 
+
+How would you assess your own mathematical skills, compared to what you would imagine the class composition to be? Please give an estimate in terms of percentiles.
+
+> I am NOT a natural with math. I learn slowly and stuggle at first,
+  especially when being rushed with an impending deadline. That said:
+  if given a reasonable amount of time and some space to learn a math
+  concept in my own way: I am able to walk away with a greater command
+  of the concept. It just takes me a little longer to figure out.
+
+Version control. Do you use it regularly/have you used it before?
+
+> Nope (though I should). Yep - GitHub and BitBuckets for previous
+  CS classes which required their use. If you help get me hooked on
+  version control, I'd also be appreciative!
+
+How much experience do you have with Git?
+
+> Minimal, will need a refresher
+
+How much experience do you have with GitHub?
+
+> Better than Git standalone, will need a refresher
+
+Tell me about something interesting you learned recently.
+
+> I read an excellent paper recently called 'Steering Behaviors For
+  Autonomous Characters' by Craig Reynolds. As I understand it, this
+  is a 'Grand-daddy' paper on moveable agent simulations which led to
+  things like pedestrian simulation, swarming / flocking behaviors,
+  etc. The coolest thing about it, in my opinion, is that it allows for
+  implementations which could practically encapsulate advanced steering
+  behaviors into 'primitive' calls which can be mixed and weighted to
+  produce even more complex behaviors. I've implemented some of these
+  behaviors in Processing and P5JS, and it's something I certainly want
+  to spend more time on (alongside my reach into Procedural Generation,
+  but that's a whole other campaign!)
+  
+  The paper: http://www.red3d.com/cwr/papers/1999/gdc99steer.html
